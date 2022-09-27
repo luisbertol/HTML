@@ -3,5 +3,9 @@ p {
 }
 
 body {
-    background #CCCCCC
+    background: #CCCCCC
+}
+
+em strong {
+    color: red
 }
